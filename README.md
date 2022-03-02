@@ -1,5 +1,8 @@
 # Project name
  * Quote-App
+ 
+## Project Description
+* This Website is meant to create an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
 ## Author(s) informaton
 * Hawa Evakli
