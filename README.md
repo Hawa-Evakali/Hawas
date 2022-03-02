@@ -63,3 +63,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * (ailabeyqute@gmail.com)
 
 ## Licence and Copyright Information
+* Copyright 2022 Hawa Evakali
