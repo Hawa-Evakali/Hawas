@@ -25,6 +25,16 @@ To access this project on your files, you can clone it using these steps
 * Delete a Quote
 * See the number of upvotes and number of downvotes for each quote
 
+## Live Site
+view [Live] (https://github.com/Hawa-Evakali/Hawas.git)
+
+## Technologies Used 
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. ANGULARJS
+5. BOOTSTRAP
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
