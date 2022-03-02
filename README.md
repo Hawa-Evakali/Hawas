@@ -5,7 +5,7 @@
 * This Website is meant to create an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
 ## Author(s) informaton
-* Hawa Evakli
+* Hawa Evakali
 
 ## Prerequisities
 * You need to have git installed
@@ -13,7 +13,7 @@
 
 ## Setup instructions
 To access this project on your files, you can clone it using these steps
-
+1. Open your terminal
 
 ## Code scaffolding
 
