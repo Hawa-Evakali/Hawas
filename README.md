@@ -22,6 +22,7 @@ To access this project on your files, you can clone it using these steps
 * As a user I would like to:
 * Create a new Quote
 * Upvote or downvote a quote
+* Delete a Quote
 
 ## Code scaffolding
 
