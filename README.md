@@ -18,6 +18,8 @@ To access this project on your files, you can clone it using these steps
 3. This will clone the repository into your local folder
  
  ## BDD
+ As a customer, one will be able to do the following
+ 
 
 ## Code scaffolding
 
