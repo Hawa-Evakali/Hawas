@@ -16,6 +16,8 @@ To access this project on your files, you can clone it using these steps
 1. Open your terminal
 2. Use this command to clone https://github.com/Hawa-Evakali/Hawas.git
 3. This will clone the repository into your local folder
+ 
+ ## BDD
 
 ## Code scaffolding
 
