@@ -19,7 +19,8 @@ To access this project on your files, you can clone it using these steps
  
  ## BDD
  As a customer, one will be able to do the following
- 
+* As a user I would like to:
+* Create a new Quote
 
 ## Code scaffolding
 
