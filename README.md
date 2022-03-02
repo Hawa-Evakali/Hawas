@@ -11,7 +11,8 @@
 * You need to have git installed
 * You can install it with the following command in your terminal $ sudo apt install git-all
 
-
+## Setup instructions
+To access this project on your files, you can clone it using these steps
 
 
 ## Code scaffolding
